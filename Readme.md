@@ -55,6 +55,7 @@ npm run build:win
 | 模型名称 | 要使用的模型 | `deepseek-chat` |
 
 支持所有兼容 OpenAI 格式的 API 服务商。
+API配置完毕后可能需要切换模型来应用API配置。
 
 ## 📁 项目结构
 
